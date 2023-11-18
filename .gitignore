@@ -1,0 +1,9 @@
+**/openrc
+**/clouds.yaml
+**/secure.yaml
+**.mkv
+**/TODO
+pre-materials/setup/install_platform/deployment/kfp/aws-secret.yaml
+pre-materials/docker_and_k8s/intro_to_k8s/manifests/secret.yaml
+pre-materials/setup/install_platform/deployment/mlflow/secret.env
+pre-materials/setup/install_platform/deployment/mlflow/config.env
